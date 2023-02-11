@@ -124,7 +124,8 @@ function Header() {
 
                <div className="profile">
                    {/* <span className='profile_circle'></span> */}
-                   <span>{AdminName}</span>
+//                    <span>{AdminName}</span>
+                      <span>Soni Shah</span>
                  <button onClick={handleLogout} className='logoutbtn'> <span><IoMdLogIn/></span> </button> 
                  
                </div>
